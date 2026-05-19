@@ -14,7 +14,7 @@ Individual Activity 3 - Git Activity: Repository Creation and Basic Git Commands
 
 <td align="center">
 <b>Adding, Committing, and Pushing Changes</b><br><br>
-<img src="https://github.com/user-attachments/assets/d08885dd-8b34-4400-830a-34840d986bde" width="420"/>
+<img src="https://github.com/user-attachments/assets/f7c0cf50-179d-49d8-b15d-19f3d7fb0282" width="420"/>
 </td>
 </tr>
 
